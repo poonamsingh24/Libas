@@ -78,7 +78,7 @@ export default function Footer() {
             <div className="text-fuchsia-900">
               <h1 className="text-xl py-5 font-semibold ">Download The App</h1>
               <div className="flex gap-4 ">
-                <button className="flex gap-2 items-center border bg-fuchsia-900 py-1 px-5 rounded text-white">
+                <button className="flex gap-2 items-center border bg-fuchsia-900 py-2 px-5 rounded text-white">
                   <FaGooglePlay /> <a href="#">Google Play</a>
                 </button>
                 <button className="flex gap-2 items-center border bg-fuchsia-900 text-white py-1 px-5 rounded">
@@ -86,7 +86,7 @@ export default function Footer() {
                 </button>
               </div>
             </div>
-            <h4 className="pt-8 pb-5 text-lg text-fuchsia-900 font-semibold ">
+            <h4 className="pt-5 pb-5 text-lg text-fuchsia-900 font-semibold ">
               Secure Payment
             </h4>
             <div className="flex gap-3">
